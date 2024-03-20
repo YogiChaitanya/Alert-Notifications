@@ -1,0 +1,12 @@
+/* Write your CSS here */
+
+.alert-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.list-container {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
